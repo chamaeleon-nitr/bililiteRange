@@ -1,4 +1,5 @@
 bililiteRange is a javascript library that abstracts text selection and replacement.
+This branch (IE8) is the last that supports Internet Explorer 8.
 
 The basic function is in bililiteRange.js, with the documentation at http://bililite.com/blog/2011/01/17/cross-browser-text-ranges-and-selections/
 
